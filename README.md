@@ -4,5 +4,5 @@ Optimize capacity planning with Python PuLP package
 ### Business Proposal report of Optimaizing Capacity Planing (dated on 2 May 2020)
 
 ### install PuLP package 
-pip install PuLP
+pip install PuLP <br>
 PuLP requires Python >= 2.7.
